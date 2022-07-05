@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fernanda Scali
 - 👀 I'm interested in learning everything I can about programming.
-- 🌱 I'm currently learning Python, Javascript, HTML
+- 🌱 I'm currently learning Python, Javascript, HTML, CSS
 - 💞️ I'm looking to collaborate on a project, if you need to call me
 - 📫 How to reach me fernandascali@gmail.com | https://www.linkedin.com/in/fernanda-scali/
 
