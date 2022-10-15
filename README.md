@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fernanda Scali
+- 👋 Olá, eu sou Fernanda Scali
 - 👀 I'm interested in learning everything I can about programming.
 - 🌱 I'm currently learning Python, Javascript, HTML, CSS
 - 💞️ I'm looking to collaborate on a project, if you need to call me
