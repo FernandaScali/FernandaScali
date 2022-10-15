@@ -11,7 +11,6 @@
 </div>
 
 
-   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/FernandaScali/FernandaScali/blob/output/github-contribution-grid-snake.svg)
   
-github-readme-stats.vercel.app/api?username=[FernandaScali]FernandaScali
-  
+
